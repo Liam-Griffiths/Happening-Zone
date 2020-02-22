@@ -1,0 +1,19 @@
+{
+  "name": "happening-zone",
+  "version": "1.0.0",
+  "description": "AWS based AI driven drudge like news aggregator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liam-Griffiths/Happening-Zone.git"
+  },
+  "author": "Liam Griffiths",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liam-Griffiths/Happening-Zone/issues"
+  },
+  "homepage": "https://github.com/Liam-Griffiths/Happening-Zone#readme"
+}

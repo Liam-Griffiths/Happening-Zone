@@ -1,2 +1,4 @@
 # Happening Zone
-Modification of EZ News - https://github.com/akras14/eznews
+AWS based AI driven drudge like news aggregator.
+
+Old Version Live: http://happening.zone
